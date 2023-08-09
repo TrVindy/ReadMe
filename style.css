@@ -1,0 +1,61 @@
+body{
+    background-color: #ffffff;
+}
+span{
+    align-self: center;
+    font-weight: 700;
+    color: blueviolet;
+}
+.nav-item a{
+    color: mediumslateblue;
+    font-weight: 500;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #d00dea, #af06e7f4, #5c9898e6);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+.display-5 {
+    color: #ffffff;
+}
+.lead{
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+    color: #ffffff;
+}
+.btn-outline-secondary{
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: blueviolet;
+    --bs-btn-hover-border-color: blueviolet;
+    width: 160px;
+    text-align: start;
+    font-weight: 500;
+}
+.fs-2{
+    color: #d00dea;
+}
+.para{
+    text-align: justify;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+  }
+.features{
+    background-color: #ddd6d6;
+}
+.chess{
+    background-color: rgb(249, 244, 248);
+}
+.btn-primary{
+    --bs-btn-color: #fff;
+    --bs-btn-bg: rgb(189, 130, 244);
+    --bs-btn-border-color: rgb(190, 135, 242);
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: blueviolet;
+    --bs-btn-hover-border-color: blueviolet;
+    width: 160px;
+    text-align: center;
+    font-weight: 500;
+}
